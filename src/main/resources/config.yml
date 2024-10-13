@@ -1,0 +1,15 @@
+## Chat Prefix ##
+Prefix: "&5Phoenix Interactive Studios &8&l| "
+
+## Own Name Change Messanges ##
+Own_Name: "&7You have changed your name to"
+
+## Server Admin changed players name ##
+Change_Message: "&7You have changed the name of the following player:"
+New_Name_Message: "&7The name of the player is now: "
+
+## Notification of your own change name ##
+Your_New_Name_Message: "&7Your name was changed to: "
+
+## If player doesnt have OP Permission ##
+noNamePermission: "&7You cant change your own name."
